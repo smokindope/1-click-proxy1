@@ -6,6 +6,6 @@ Simple reverse proxy Worker.
 
 Click the button below:
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/smokindope/proxy3)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/smokindope/1-click-proxy1)
 
 ## Usage
