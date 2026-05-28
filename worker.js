@@ -33,8 +33,9 @@ async function handleRequest(request) {
 
       outBody = JSON.stringify({
         code: invalid ? 400 : 0,
-        usage: "Host/{URL}",
-        source: "https://forum.tfms.xyz",
+        usage: "https://your.url.dev/https://stream.url.m3u8",
+        usage: "https://your.url.dev?url=https://stream.url.m3u8",
+        source: "https://tfms.xyz",
         note: "Join https://forum.tfms.xyz"
       });
 
